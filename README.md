@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The Drum Machine has key binds also and it can be played from keyboard also. The project is easily scalable. Preview image is attached for reference.
+The Drum Machine has key binds and it can be played from keyboard also. The project is easily scalable. Preview image is attached for reference.
 
 ## Available Scripts
 
